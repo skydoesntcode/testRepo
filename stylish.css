@@ -1,0 +1,75 @@
+
+#header { background-color: #ffff;
+    border-bottom: 1px solid #cccc ;
+
+
+}
+
+#container {background-color: #dddd;
+    width: 1450px;
+    height: 500px;
+    text-align: center;
+    position: relative;
+    top: 0px;
+}
+#container:hover {background-color: rebeccapurple;}
+
+#name { background-color: #4aaaab;
+    width:200px;
+    position: relative;
+    right: -275px;
+    text-align:center;
+    font-family: 'Georgia';
+    color: #ffff;
+    height: 53px;
+}
+#nav { list-style: none;
+    float: right;
+    text-decoration: none;
+    color: inherit;
+}
+
+#border { background-color: #ffff;
+    width: 960px;
+    height: 343px;
+    position: absolute;
+    top: 5%;
+    right: 15%;}
+
+#about { 
+    color: #4aaaab;
+    border-bottom: 2px solid #dddd;
+    border-right-width: 23px;
+    margin: 4%;
+    padding: 3px;
+
+}
+#face { 
+    position: absolute;
+    left: 4%;
+    top: 23%
+
+}
+
+#paragraph 
+{ 
+    position: absolute;
+    right: 8%;
+    width: 523px;
+    font-size: 18px;
+    color: #7777;
+
+}
+
+#footer {
+    border-top: #4aaaab solid  5px;
+    background-color: #6666;
+    width: 1450px;
+    height: 70px;
+    text-align: center;
+
+}
+
+
+
+  
